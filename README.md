@@ -7,6 +7,10 @@ A dataset of digitized comic storybooks in the English language with ground trut
 This paper was published in [ICDAR 2021](https://dblp.org/db/conf/icdar/icdar2021-2.html)
 ## Citation Details
 
+### Plain Text
+
+Gupta, V., Detani, V., Khokar, V., Chattopadhyay, C. (2021). C2VNet: A Deep Learning Framework Towards Comic Strip to Audio-Visual Scene Synthesis. In: Lladós, J., Lopresti, D., Uchida, S. (eds) Document Analysis and Recognition – ICDAR 2021. ICDAR 2021. Lecture Notes in Computer Science(), vol 12822. Springer, Cham. https://doi.org/10.1007/978-3-030-86331-9_11
+
 ### Bibtex
 
 ```
